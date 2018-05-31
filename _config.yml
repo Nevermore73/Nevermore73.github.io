@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computationnal Mathematics
+title: Never73More's blog
 email: never73more@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog will contatin some topics in computational mathematics such as matrix computation, numerical optimization, 
