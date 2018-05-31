@@ -16,9 +16,9 @@
 title: Never73More's blog
 email: never73more@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
-  This blog will contatin some topics in computational mathematics such as matrix computation, numerical optimization, 
-  machine learning, probability and programming. Especially, this blog aims to laying a solid foundation for deep learning 
-  and provides some advanced results involved in deep learning.   
+#  This blog will contatin some topics in computational mathematics such as matrix computation, numerical optimization, 
+#  machine learning, probability and programming. Especially, this blog aims to laying a solid foundation for deep learning 
+#  and provides some advanced results involved in deep learning.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nevermore73.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
